@@ -764,7 +764,7 @@ textarea::placeholder {
 
 }
 
-@media screen and (max-width: 380px) {
+@media screen and (max-width: 420px) {
 
   .container {
     max-width: 320px;
