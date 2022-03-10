@@ -1015,4 +1015,12 @@ textarea::placeholder {
     margin-top: 44px;
     margin-left: 20px;
   }
+  
+   .navlist {
+    padding: 87px 290px;
+    flex-direction: column;
+    font-size: 35px;
+    line-height: 60px;
+    gap: 0px;
+  }
 }
